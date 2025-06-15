@@ -1,0 +1,30 @@
+{
+  "session_id": "f859b71a-382c-4e47-91e8-109b2bdb816e",
+  "timestamp": "2025-05-01T13:25:37.509620",
+  "screening": {
+    "gad7_score": 5,
+    "phq9_score": 7,
+    "eligible": true,
+    "consented": true,
+    "completed": true
+  },
+  "interactions": [
+    {
+      "timestamp": "2025-05-01T13:27:22.571400",
+      "message_length": 5,
+      "response_length": 32,
+      "sentiment": "neutral",
+      "is_tapping_session": false
+    },
+    {
+      "timestamp": "2025-05-01T13:28:00.308714",
+      "message_length": 64,
+      "response_length": 1561,
+      "sentiment": "neutral",
+      "is_tapping_session": true
+    }
+  ],
+  "tapping_sessions": 1,
+  "completed_tapping_steps": 16,
+  "feedback": null
+}
